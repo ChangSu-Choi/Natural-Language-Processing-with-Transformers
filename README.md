@@ -7,9 +7,9 @@ This repository is a summary of the content of the book "Natural Language Proces
 - NLG
 - Text Summarization
 - Question Answering
-- Building Efficient Transformers
+- Model Compression.
 - Handling the Label Scarcity Problem
-- Collecting Large Datasets   
+  
 I wrote Jupyter notebook and was created in the following versions.
 ### Environment
 - transformers 4.21.3
